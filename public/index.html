@@ -7,13 +7,39 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="container">
-  <img src="https://res.cloudinary.com/dyf5x6iqz/image/upload/copy_of_artwork_stmlky.webp" alt="Description" width="900" height="400">
+    <div class="header">
+        <div id="logo"><h2>Yuvraj Chouhan</h2></div>
+        <div id="nav">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </div>
+        <div id="cta">
+            <button id="like-button" type="submit" onclick="updateCount()">Like</button>
+        </div>
+    </div>
+<div class="container" id="home">
+  <img src="https://res.cloudinary.com/dyf5x6iqz/image/upload/copy_of_artwork_stmlky.webp" alt="Description" width="1400" height="600">
 
   <div id="links">
   <a href="https://yuvrajchouhan09.github.io/me/" target="_blank" rel="noopener">Yuvraj portfolio</a>
   <a href="http://yuvrajchouhan09.github.io/music/" target="_blank" rel="noopener noreferrer">Music</a>
   </div>
 </div>
+<div class="about" id="about">
+  <h2>About</h2>
+  <p>Hello, I'm Yuvraj Chouhan! I am learning full stack development. in this website it used html,css,js node.js, express.js and mongodb atlas.</p>
+  </div>
+
+
+<div class="contact" id="contact">
+  <h2>Contact</h2>
+  <p>Feel free to reach out to me!</p>
+ <a href="mailto:uvpn6089@gmail.com">Send Email</a>
+</div>
+<div class="footer" >
+  <p>Copyright &copy; © 2023 Yuvraj Chouhan. All rights reserved.</p>
+</div>
 </body>
+<script src="script.js"></script>
 </html>
