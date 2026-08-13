@@ -4,24 +4,14 @@
     
 "version": "1.0.0",
     
-"description": "Learning full stack development.",
+"description": "",
     
-"keywords": [
+"main": "index.js",
     
-    
-"fullstack",
-    
-    
-"development"
-    
-],
-    
-"homepage": "https://github.com/uvpn6089/dex#readme",
-    
-"bugs": {
+"scripts": {
     
     
-"url": "https://github.com/uvpn6089/dex/issues"
+"test": "echo \"Error: no test specified\" && exit 1"
     
 },
     
@@ -35,18 +25,20 @@
     
 },
     
-"license": "ISC",
+"keywords": [],
     
-"author": "uvpn6089",
+"author": "",
+    
+"license": "ISC",
     
 "type": "commonjs",
     
-"main": "index.js",
-    
-"scripts": {
+"bugs": {
     
     
-"test": "echo \"Error: no test specified\" && exit 1"
+"url": "https://github.com/uvpn6089/dex/issues"
     
-}
+},
+    
+"homepage": "https://github.com/uvpn6089/dex#readme"
 }
