@@ -1,3 +1,52 @@
 {
-    
+    
+"name": "dex",
+    
+"version": "1.0.0",
+    
+"description": "Learning full stack development.",
+    
+"keywords": [
+    
+    
+"fullstack",
+    
+    
+"development"
+    
+],
+    
+"homepage": "https://github.com/uvpn6089/dex#readme",
+    
+"bugs": {
+    
+    
+"url": "https://github.com/uvpn6089/dex/issues"
+    
+},
+    
+"repository": {
+    
+    
+"type": "git",
+    
+    
+"url": "git+https://github.com/uvpn6089/dex.git"
+    
+},
+    
+"license": "ISC",
+    
+"author": "uvpn6089",
+    
+"type": "commonjs",
+    
+"main": "index.js",
+    
+"scripts": {
+    
+    
+"test": "echo \"Error: no test specified\" && exit 1"
+    
+}
 }
