@@ -50,7 +50,7 @@ body {
 
 /* Main */
 .main {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url('https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -111,6 +111,7 @@ body {
   gap: 16px; 
   padding: 16px;
   background-color: #03002ac3;
+  
 }
 
 .image-container img {
@@ -129,6 +130,20 @@ body {
   font-size: 16px;
   margin-top: 5px;
 }
+
+.about {
+  
+  padding: 50px 20px 30px 20px;
+  text-align: center;
+}
+.about h1{
+    color: #ffffff;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+
+
 .footer {
   background-color: #232323;
   color: #ffffff;
