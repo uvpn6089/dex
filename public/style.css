@@ -6,6 +6,9 @@ body {
     font-family: Arial, sans-serif;
     height: 100vh;
     background-color: #1e1e1ee9;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    
 }
 .header {
     position: -webkit-sticky;
@@ -82,6 +85,7 @@ body {
   padding: 10px 20px;
   border: 2px solid #ffffff;
   border-radius: 5px;
+
 }
 #main-header a:hover {
   background-color: #ffffff;
