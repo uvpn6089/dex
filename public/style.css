@@ -43,20 +43,11 @@ body {
 }
 .header #nav a:hover {
     background-color: #606060;
-<<<<<<< HEAD
-=======
-
->>>>>>> 6ba7353eeaa2d134943145f11ca10735d7d6bdef
     padding: 5px 5px;
     border-radius: 5px;
     transition: background-color 0.6s ease;
     transition: padding 0.7s ease;
 }
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 6ba7353eeaa2d134943145f11ca10735d7d6bdef
 /* Main */
 .main {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url('https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
